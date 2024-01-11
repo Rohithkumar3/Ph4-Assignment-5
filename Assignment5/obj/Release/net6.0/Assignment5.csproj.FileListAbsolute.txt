@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\Assignment5.exe
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\Assignment5.deps.json
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\Assignment5.runtimeconfig.json
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\Assignment5.dll
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\Assignment5.pdb
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.AssemblyInfo.cs
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.dll
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\refint\Assignment5.dll
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.pdb
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\Assignment5.genruntimeconfig.cache
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\obj\Release\net6.0\ref\Assignment5.dll

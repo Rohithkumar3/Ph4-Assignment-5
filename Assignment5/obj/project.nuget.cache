@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfTw1o91XvrRiIeR27C9cru+TEWqwgJ5q/lerW65GoM1goOdkhD40WsrYhlBWfIjvoN52Er2eYAmR/l9TajzFw==",
+  "success": true,
+  "projectFilePath": "C:\\Mphasis\\Simplilearn-P4\\Day-5\\Assignment5\\Assignment5\\Assignment5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gande\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

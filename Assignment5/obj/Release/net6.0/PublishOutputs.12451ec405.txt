@@ -1,0 +1,5 @@
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\publish\Assignment5.exe
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\publish\Assignment5.dll
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\publish\Assignment5.deps.json
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\publish\Assignment5.runtimeconfig.json
+C:\Mphasis\Simplilearn-P4\Day-5\Assignment5\Assignment5\bin\Release\net6.0\publish\Assignment5.pdb
